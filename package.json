@@ -1,0 +1,19 @@
+{
+  "name": "markdown-resume-craig",
+  "version": "0.0.1",
+  "description": "my resume built using markdown-resume.js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craigsturgis/markdown-resume.git"
+  },
+  "author": "Craig Sturgis",
+  "license": "Public Domain",
+  "homepage": "https://github.com/craigsturgis/markdown-resume",
+  "dependencies": {
+    "markdown-resume": "^0.1.0"
+  }
+}
